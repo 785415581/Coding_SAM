@@ -8,5 +8,5 @@
 ## 项目截图：
 >![image](https://github.com/Qinjiaxin/Coding_SAM/tree/master/Screenshot/Main_ui.png)
 >![image](https://github.com/Qinjiaxin/Coding_SAM/tree/master/Screenshot/project.png)
->![image](https://github.com/Qinjiaxin/Coding_SAM/tree/master/Screenshot/projectInfor.png)
+>![image](https://github.com/Qinjiaxin/Coding_SAM/blob/master/Screenshot/projectInfor.png)
 >![image](https://github.com/Qinjiaxin/Coding_SAM/tree/master/Screenshot/projectInfor1.png)
