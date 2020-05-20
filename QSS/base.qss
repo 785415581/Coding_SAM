@@ -1,0 +1,26 @@
+QWidget {
+	background:transparent;
+}
+QLabel#typeLabel {
+	padding-left:1px;
+	padding-right:1px;
+}
+QLabel#totalCopyLabel {
+	color: #8C8C8C;
+	font-size:12px;
+}
+QPushButton#openFolderButton {
+	margin-left:25px;
+	margin-right:25px;
+	border:none;
+	color:white; 
+	background:none; 
+}
+QPushButton#openFolderButton:hover {
+	color:#FFFFFF; 
+	background:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0 rgba(255, 255, 255, 0% ), stop:1 rgba(200, 200, 200, 60% ));
+}
+QPushButton#openFolderButton:pressed {
+	color:white; 
+	background:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0 rgba(255, 255, 255, 0% ), stop:1 rgba(200, 200, 200, 80% ));
+}

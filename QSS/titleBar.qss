@@ -1,0 +1,46 @@
+TitleBar {
+    background-color: #fbfbfb;
+}
+/*最小化最大化关闭按钮通用默认背景*/
+#buttonMinimum {
+    border-left      : 4px solid rgba(0,0,0,0);
+    border-top       : 3px solid rgba(0,0,0,0);
+    border-right     : 3px solid rgba(0,0,0,0);
+    border-bottom    : 0px;
+    height           : 13;
+    width            : 13;
+    /*background-image : url(E:/workSpace/Coding_SAM/resource/header/btn_small.png);*/
+}
+#buttonMaximum{
+    border-left      : 4px solid rgba(0,0,0,0);
+    border-top       : 3px solid rgba(0,0,0,0);
+    border-right     : 3px solid rgba(0,0,0,0);
+    border-bottom    : 0px;
+    height           : 13;
+    width            : 13;
+    /*background-image : url(E:/workSpace/Coding_SAM/resource/header/btn_big.png);*/
+}
+#buttonClose{
+    border-left      : 4px solid rgba(0,0,0,0);
+    border-top       : 3px solid rgba(0,0,0,0);
+    border-right     : 3px solid rgba(0,0,0,0);
+    border-bottom    : 0px;
+    height           : 13;
+    width            : 13;
+    /*background-image : url(E:/workSpace/Coding_SAM/resource/header/btn_close.png);*/
+}
+/*悬停*/
+#buttonMinimum:hover,#buttonMaximum:hover {
+    background-color: #E3E3E3;
+    color: white;
+}
+#buttonClose:hover {
+    background-color: red;
+}
+/*鼠标按下不放*/
+#buttonMinimum:pressed,#buttonMaximum:pressed {
+    background-color: Firebrick;
+}
+#buttonClose:pressed {
+    color: white;
+}

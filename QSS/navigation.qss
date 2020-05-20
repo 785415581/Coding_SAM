@@ -1,0 +1,9 @@
+QFrame {
+	background-color:#366CB3;
+}
+QLabel {
+	background-position : center;
+}
+QLabel：hover {
+	color:blue;
+}

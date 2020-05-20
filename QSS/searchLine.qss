@@ -1,0 +1,19 @@
+QPushButton {
+    border-image: url(E:\workSpace\SAM\resource\resource\search.png);
+}
+QWidget{
+	backgroud:#000000;
+}
+
+QLineEdit#SearchLine{
+    margin-bottom: 1px;
+    border: 4px solid #D4D6D9;
+    border-radius: 5px;
+    color: #D4D6D9;
+    font: 75 9pt "黑体";
+    background: #D4D6D9;
+}
+
+QLineEdit#SearchLine:pressed {
+    color: #D0D0D1;
+}

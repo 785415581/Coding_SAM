@@ -1,0 +1,15 @@
+TitleInfo {
+    background-color: #fbfbfb;
+}
+#nickNameLabel{
+	color:rgb(0,0,0,255);
+	font-size:20px;
+	font-weight:900;
+	font-family:Microsoft YaHei;
+}
+#detailLabel{
+	color:rgb(0,0,0,180);
+	font-size:15px;
+	font-weight:normal;
+	font-family:Microsoft YaHei;
+}

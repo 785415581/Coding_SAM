@@ -1,0 +1,15 @@
+QPushButton{
+    border-left      : 4px solid rgba(0,0,0,0);
+    border-top       : 3px solid rgba(0,0,0,0);
+    border-right     : 3px solid rgba(0,0,0,0);
+    border-bottom    : 0px;
+    height           : 13;
+    width            : 13;
+    background-image : url(E:/workSpace/Coding_SAM/resource/header/%s.png);
+}
+QPushButton:hover{
+    background-image : url(E:/workSpace/Coding_SAM/resource/header/%s_hover.png);
+}
+QPushButton:pressed{
+    background-image : url(E:/workSpace/Coding_SAM/resource/header/%s.png);
+}
