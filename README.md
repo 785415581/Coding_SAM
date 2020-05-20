@@ -6,7 +6,7 @@
 >* Install Python3.7
 >* Install PyCharm
 >* Install LAVFilters-0.73.1.exe
->项目当中有个MySQL文件夹，里面的文件可以在Nivacat里面选择一个激活的数据库右键选择运行SQL数据库即可，[如何使用Navicat执行SQL文件](https://jingyan.baidu.com/article/3f16e00334f6842591c103f1.html)
+>* 项目当中有个MySQL文件夹，里面的文件可以在Nivacat里面选择一个激活的数据库右键选择运行SQL数据库即可，[如何使用Navicat执行SQL文件](https://jingyan.baidu.com/article/3f16e00334f6842591c103f1.html)
 ## 使用方法：
 >* 直接运行main_ui.py
 ## 项目截图：
